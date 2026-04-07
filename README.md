@@ -1,4 +1,4 @@
-## Laboratorio DEBUG 
+## Laboratorio Ensamblado y Ejecución
 
 En este laboratorio se emplearon los comandos del programa DEBUG para crear, ejecutar y analizar programas en lenguaje ensamblador, observando detalladamente el comportamiento de los registros durante la ejecución instrucción por instrucción.
 
